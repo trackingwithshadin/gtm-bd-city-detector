@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/sadikulshadin/"
+documentation: "https://github.com/trackingwithshadin/gtm-bd-city-detector"
+versions:
+  - sha: "main"
+    changeNotes: "Initial release of BD City Detector template."
